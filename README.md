@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mehmetalidemir869
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+mehmetalidemir869/mehmetalidemir869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+bir veri çekme botu yapmak istiyorum bana yardım ederseniz çok sevinirim 
+
+I want to make a data extraction bot, if you can help me I would be very grateful.
